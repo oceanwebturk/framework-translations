@@ -3,6 +3,5 @@
     "description": "OceanWebTurk Framework Translations",
     "type": "oceanwebturk-translations",
     "license": "MIT",
-    "minimum-stability": "dev",
-    "require": {}
+    "minimum-stability": "dev"
 }
