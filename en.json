@@ -1,0 +1,10 @@
+{
+ "driver_not_found": "[%s] Driver Not Found",
+ "help_command": "Command List",
+ "upgrade": "System Upgrade",
+ "make_controller_command_desc": "Make a Controller",
+ "file_already": "File already exists: [%s]",
+ "controller_created": "Controller a created successfully [%s]",
+ "serve": "Application Development Server",
+ "method_not_found": "Method %s::%s does not exist."
+}
