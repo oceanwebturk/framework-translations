@@ -1,2 +1,1 @@
-# framework-translations
-OceanWebTurk Framework Translations
+# OceanWebTurk Framework Translations
