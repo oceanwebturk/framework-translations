@@ -1,10 +1,16 @@
 {
- "driver_not_found": "[%s] Driver Not Found",
  "help_command": "Command List",
- "upgrade": "System Upgrade",
+ "serve_command": "Application Development Server",
+ "rebuild_command": "System Rebuild",
+ "cache_clear_command": "Cache Clear",
+
  "make_controller_command_desc": "Make a Controller",
  "file_already": "File already exists: [%s]",
  "controller_created": "Controller a created successfully [%s]",
- "serve": "Application Development Server",
- "method_not_found": "Method %s::%s does not exist."
+
+ "driver_not_found": "[%s] Driver Not Found",
+ "method_not_found": "Method %s::%s does not exist.",
+ "encryption_key_is_required": "Encryption key is required.",
+ "invalid_encription_method": "Invalid encryption method.",
+ "encryption_key_not_set": "Encryption key not set. Call Crypt::init() first."
 }
